@@ -1,0 +1,15 @@
+{
+    "fmp_api_key": "8tPdjMGV8oM717I0cYMpNnv0ecuZ8URv",
+    "telegram": {
+        "bot_token": "7993773051:AAFiDD3rElcGWYqdw_sbe4wfxCrIoS4WYUE",
+        "chat_id": "425935367"
+    },
+    "stock_analysis": {
+        "min_notification_score": 7,
+        "top_stocks_count": 10,
+        "stocks_to_analyze": [
+            "AAPL", "MSFT", "AMZN", "GOOG", "META", 
+            "NVDA", "TSLA", "V", "JPM", "JNJ"
+        ]
+    }
+}
