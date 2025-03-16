@@ -9,7 +9,7 @@
         "top_stocks_count": 10,
         "stocks_to_analyze": [
             "AAPL", "MSFT", "AMZN", "GOOG", "META", 
-            "NVDA", "UAA", "V", "JPM", "PYPL"
+            "NVDA", "TSLA", "V", "JPM", "JNJ"
         ]
     }
 }
